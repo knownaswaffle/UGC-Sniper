@@ -8,7 +8,7 @@
     "better print": true,
     "logo dupe": true,
 
-    "mode": "",
+    "mode": "regular",
     "custom regular cooldown": -1,
     "custom afk cooldown": -1,
     "custom time cooldown": -1,
