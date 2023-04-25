@@ -1,9 +1,9 @@
 {
-    "webhook enabled": false,
-    "webhook": "",
+    "webhook enabled": true,
+    "webhook": "https://discord.com/api/webhooks/1100533641035128862/GbBHewBlIK4dbubA9Xo1mawTLJ1-34kepRp0uOGUBgDUU5lQ5hpKVMBd1lmXNXs7c0ts",
     "ping everyone": true,
 
-    "auto update": false,
+    "auto update": true,
     "purchase proxy": false,
     "better print": true,
     "logo dupe": true,
@@ -19,9 +19,9 @@
     "proxy ratelimit cooldown": 0,
     "ratelimit cooldown": 5,
     
-    "purchase paid ugcs": false,
-    "paid ugcs max price": 0,
-    "purchase paid ugcs amount": 0,
+    "purchase paid ugcs": true,
+    "paid ugcs max price": 100,
+    "purchase paid ugcs amount": 100,
 
     "current theme": "./themes/baseTheme",
 
